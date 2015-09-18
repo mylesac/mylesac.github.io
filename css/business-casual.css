@@ -127,6 +127,18 @@ footer p {
     padding: 50px 0;
 }
 
+@media all and (min-width:768px) {
+    .small-screen {
+      display: none;
+                  }
+    }
+
+    @media all and (max-width:768px) {
+        .small-screen {
+          display: none;
+                      }
+        }
+
 @media screen and (min-width:768px) {
     .brand {
         display: inherit;
