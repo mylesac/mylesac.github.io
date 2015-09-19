@@ -133,11 +133,11 @@ footer p {
                   }
     }
 
-    @media all and (max-width:768px) {
-        .small-screen {
-          display: none;
-                      }
-        }
+@media all and (max-width:768px) {
+      .small-screen {
+      display: none;
+                    }
+    }
 
 @media screen and (min-width:768px) {
     .brand {
