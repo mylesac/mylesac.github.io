@@ -134,7 +134,7 @@ footer p {
     }
 
 @media all and (max-width:768px) {
-      .small-screen {
+      .large-screen {
       display: none;
                     }
     }
